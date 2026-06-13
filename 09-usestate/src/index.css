@@ -1,0 +1,42 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+  color: black;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+button{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 100px;
+  height: 50px;
+  width: 100px;
+  border:black solid 2px
+
+}
+h1{
+  margin-left: 160px;
+  margin-top: 20px;
+  height: 100px;
+  width: 100px;
+  background-color: gray;
+  padding: 32px;
+  border-radius: 50%;
+}
+#green{
+  background-color: greenyellow;
+
+}
+#red{
+  background-color: rgb(227, 109, 109);
+}
+#fhutt{
+  background-color: black;
+  color: aliceblue;
+ 
+}
